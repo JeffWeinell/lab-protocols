@@ -1,4 +1,6 @@
-# KU SPRI Bead DNA Extraction Protocol
+## [Lab Protocols](https://github.com/JeffWeinell/lab-protocols)
+
+## KU SPRI Bead DNA Extraction Protocol
 
 **Protocol modified slightly from [Phyletica Lab Protocols - SPRI Bead DNA Extraction Protocol](http://phyletica.org/lab-protocols/extraction-spri.html).**
 
