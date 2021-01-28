@@ -15,7 +15,7 @@
 [**PCR Master Mix Calculator**](https://docs.google.com/spreadsheets/d/116dt41wZdYawEEVu8upvssZwvIqVNxRBZ9417bQTx8I/edit?usp=sharing)
 
 **Primers and target loci**. Taxa applicable only includes those of which I have used the primer.
-Target Locus Name| Primer direction | Primer Name | Primer Sequence (5' to 3')| Taxa Applicable | Primer Source
+Target Locus| Direction | Primer Name | Sequence (5' to 3')| Taxa | Source
 ---|---|---|---|---|---
 Cytb | forward | L14919 | AACCACCGTTGTTATTCAACT | snakes | 
 Cytb | reverse | H16064 | CTTTGGTTTACAAGAACAATGCTTTA | snakes  | 
