@@ -21,8 +21,8 @@ Cytb | forward | L14919 | AACCACCGTTGTTATTCAACT | snakes |
 Cytb | reverse | H16064 | CTTTGGTTTACAAGAACAATGCTTTA | snakes  | 
 Cytb | forward | 337F.23 | TTCTGAGCAGCAACAGTAATCAC | snakes | 
 Cytb | reverse | 732R.21 | YTCTGGTTTAATGTGTTGKGG | snakes | 
-CMOS | forward | S77|| squamates | 
-CMOS | reverse | S78|| squamates | 
+CMOS | forward | S67 (S77)|| squamates | 
+CMOS | reverse | S68 (S78)|| squamates | 
 ND2  | forward | Metf1 (Metf6; L4437b) |AAGCTTTCGGGCCCATACC| skinks, geckos, probably works for most squamates | 
 ND2  | reverse | CO1R1 (CO1H; H5934) |AGRGTGCCAATGTCTTTGTGRTT| skinks, geckos, probably works for most squamates | 
 ND2  | forward | CyrtInt.F1 | TAGCCYTCTCYTCYATYGCCC | Cyrtodactylus; other geckos | [Siler et al., 2010](https://doi.org/10.1016/j.ympev.2010.01.027)
