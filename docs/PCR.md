@@ -17,13 +17,11 @@
 **Primers and target loci**. Taxa applicable only includes those of which I have used the primer.
 Target Locus Name| Primer direction | Primer Name | Primer Sequence (5' to 3')| Taxa Applicable | Primer Source
 ---|---|---|---|---
-Cytb | Forward | L14919 | AACCACCGTTGTTATTCAACT | snakes
-Cytb | Reverse | H16064 | CTTTGGTTTACAAGAACAATGCTTTA | snakes
-Cytb | Forward | 337F.23 | TTCTGAGCAGCAACAGTAATCAC | snakes
-Cytb | Reverse | 732R.21 | YTCTGGTTTAATGTGTTGKGG | snakes
-
-CMOS|||| squamates
-CMOS|||| squamates
-ND2|||| skinks, geckos, probably works for most squamates
-ND2|||| skinks, geckos, probably works for most squamates
-
+Cytb | forward | L14919 | AACCACCGTTGTTATTCAACT | snakes | 
+Cytb | reverse | H16064 | CTTTGGTTTACAAGAACAATGCTTTA | snakes  | 
+Cytb | forward | 337F.23 | TTCTGAGCAGCAACAGTAATCAC | snakes | 
+Cytb | reverse | 732R.21 | YTCTGGTTTAATGTGTTGKGG | snakes | 
+CMOS | forward | S77|| squamates | 
+CMOS | reverse | S78|| squamates | 
+ND2  | forward | Metf1|| skinks, geckos, probably works for most squamates | 
+ND2  | reverse | CO1R1|| skinks, geckos, probably works for most squamates | 
