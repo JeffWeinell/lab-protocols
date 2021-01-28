@@ -1,4 +1,4 @@
-# Lab Protocols
+# [Lab Protocols](https://github.com/JeffWeinell/lab-protocols/blob/main/README.md)
 
 ## Contents
 
@@ -7,4 +7,4 @@
   - [PCR](https://github.com/JeffWeinell/lab-protocols/blob/main/docs/PCR.md)
   - [Sanger Sequencing](https://github.com/JeffWeinell/lab-protocols/blob/main/docs/Sanger.md)
   - [ddRAD](https://github.com/JeffWeinell/lab-protocols/blob/main/docs/ddRAD_Protocol_96-Well_PMH_Non-Anolis_v4.pdf)
-  - [GBS](https://github.com/JeffWeinell/GBS-bats-vipers)
+  - [GBS](https://github.com/JeffWeinell/GBS-bats-vipers/blob/main/README.md)
