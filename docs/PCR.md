@@ -16,7 +16,7 @@
 
 **Primers and target loci**. Taxa applicable only includes those of which I have used the primer.
 Target Locus Name| Primer direction | Primer Name | Primer Sequence (5' to 3')| Taxa Applicable | Primer Source
----|---|---|---|---
+---|---|---|---|---|---
 Cytb | forward | L14919 | AACCACCGTTGTTATTCAACT | snakes | 
 Cytb | reverse | H16064 | CTTTGGTTTACAAGAACAATGCTTTA | snakes  | 
 Cytb | forward | 337F.23 | TTCTGAGCAGCAACAGTAATCAC | snakes | 
