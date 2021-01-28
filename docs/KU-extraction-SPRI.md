@@ -1,4 +1,4 @@
-## [Lab Protocols](https://github.com/JeffWeinell/blob/main/lab-protocols)
+## [Lab Protocols](https://github.com/JeffWeinell/lab-protocols/blob/main/README.md)
 
 ## KU SPRI Bead DNA Extraction Protocol
 
