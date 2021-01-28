@@ -1,3 +1,5 @@
+## [Lab Protocols](https://github.com/JeffWeinell/lab-protocols/blob/main/README.md)
+
 ## Plating and packaing samples for GeneWiz Sanger Sequencing
 
 Protocol is for 96 PCR samples sequenced in forward and reverse directions.
