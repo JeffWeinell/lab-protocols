@@ -6,9 +6,9 @@
 
 ### Reagents
 - Proteinase K 20mg/mL (CAS 39450-01-6)
-- Use either of the following as the buffer for the Lysis steps:
+- Use either of the following as the tissue lysis buffer:
   - [Proteinase K Buffer Solution](https://phyletica.github.io/lab-protocols/pro-k.html)
-  - [Promega Tissue Lysis Buffer](https://www.promega.com/products/nucleic-acid-extraction/genomic-dna/tissue-lysis-buffer-tla/?catNum=A5091) (catalog number: A5091)
+  - [Promega Tissue Lysis Buffer (TLA)](https://www.promega.com/products/nucleic-acid-extraction/genomic-dna/tissue-lysis-buffer-tla/?catNum=A5091) (catalog number: A5091)
 - Use either of the following as the elution buffer for Isolation steps:
   - [TLE Buffer Solution](https://phyletica.github.io/lab-protocols/tle.html)
   - [Promega Elution Buffer](https://www.promega.com/products/forensic-dna-analysis-ce/dna-isolation/elution-buffer/?catNum=A8281) (catalog number: A8281)
