@@ -29,7 +29,7 @@
 **Note:** At least 30 minutes before starting, put 70% ETOH in ETOH-safe freezer.
 1. Allow Speedbead solution to warm to room temperature and mix by gently inverting the solution. Mix until beads are no longer sticking to the bottom of the tube. Before using beads, allow any bubbles that have been introduced by mixing to escape from the solution.
 2. Add 300 µL of bead solution to tube containing lysis product.
-3. Mix sample by flicking tube or tip-mixing (DO NOT VORTEX).
+3. Mix sample by flicking and inverting tube; DO NOT VORTEX; tip-mixing is also harsh on DNA.
 4. Briefly centrifuge to collect sample in bottom of tube.
 5. Let sample sit for 5 minutes.
 6. Place sample on magnet for 5 minutes or until all beads have collected on magnet and solution is clear.
