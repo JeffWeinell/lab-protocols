@@ -5,6 +5,6 @@
 | Chemical | Amount/Liter | Amount/Gallon |
 | ------------- | ------------- | ------------- |
 | formaldehyde, 37% by weight (unbuffered) | 100mL  | 12.8 fluid oz (378.5mL) |
-| Content Cell  | 900mL  | 115.2 fluid oz (3406.9mL) |
-| monobasic sodium phosphate monohydrate  | 4g  | 15.12g |
-| dibasic sodium phosphate anhydrous | 6.5g  | 24.57g |
+| deionized water | 900mL | 115.2 fluid oz (3406.9mL) |
+| monobasic sodium phosphate monohydrate | 4g | 15.12g |
+| dibasic sodium phosphate anhydrous | 6.5g | 24.57g |
