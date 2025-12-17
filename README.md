@@ -2,6 +2,7 @@
 
 ## Contents
 
+  - [Specimen preservation in 10% buffered formalin](https://github.com/JeffWeinell/lab-protocols/blob/main/docs/formalin-preparation-for-specimen-preservation.md)
   - [DNA Extraction](https://github.com/JeffWeinell/lab-protocols/blob/main/docs/KU-extraction-SPRI.md)
   - [DNA Quantification](https://github.com/JeffWeinell/lab-protocols/blob/main/docs/DNA_quantification.md)
   - [PCR](https://github.com/JeffWeinell/lab-protocols/blob/main/docs/PCR.md)
