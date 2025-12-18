@@ -5,6 +5,7 @@
 ### Recipes
   - Buffered MS-222 (Tricaine mesylate)
   - [10% neutral-buffered formalin for fixing specimens](https://github.com/JeffWeinell/lab-protocols/blob/main/docs/formalin-preparation-for-specimen-preservation.md)
+  - [EDTA (0.5M, pH 8)](https://github.com/JeffWeinell/lab-protocols/blob/main/docs/edta-05M-ph8.md)
   - [Nucleic Acid Preservation (NAP) buffer](https://github.com/JeffWeinell/lab-protocols/blob/main/docs/nucleic-acid-preservation-buffer.md)
   - High molecular weight DNA buffer
 
